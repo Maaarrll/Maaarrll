@@ -10,7 +10,7 @@
 </p>
 
 ```bash
-$ spuffxz
+$ spuffxz@ph
        .::.                .::.            spuffxz@ph
       :###%=.            .=%###:           ----------
      .######%=          =######.            Uptime: 20 years
