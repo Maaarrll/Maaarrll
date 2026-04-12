@@ -15,7 +15,7 @@ $ spuffxz@ph
       :###%=.            .=%###:           ----------
      .######%=          =######.            Uptime: 20 years
     .###%:###%=        =###%:###.           Programming language: Python, C++, Javascript, PHP
-   .###%: .###%=      =###%: .###.          OS: Kali Linux
+   .###%: .###%=      =###%: .###.          OS: Linux Mint
   .###%:   .###%=    =###%:   .###.         DE: KDE Plasma
  :###%:     .###%=  =###%:     .###:        WM: Openbox
 .###%:       .###%==###%:       .###.       Shell: Zsh
