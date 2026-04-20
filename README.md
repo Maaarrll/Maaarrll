@@ -1,6 +1,10 @@
-<h1 align="center"> HELLO WORLD ! </h1>
+<h1 align="center"> HELLO WORLD! I'M SPUFFXZ!! <img src="https://github.com/Maaarrll/Personal-Repo/blob/main/images%20(1).png" width="40"></h1>
+<p><em>Third Year at <a href="https://uep.edu.ph/">University of Eastern Philippines</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> A Virtual Assistant
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<h1> <img src="https://github.com/Maaarrll/Personal-Repo/blob/main/kitty.gif" width="30"> ABOUT ME </h1>
+
+<h1> <img src="https://github.com/Maaarrll/Personal-Repo/blob/main/kittywaving.gif" width="50"> ABOUT ME </h1>
 <p align="center">
   Hey! I'm Marl, I am currently learning cybersecurity and i love to learn Hacking! I'm a 3rd Year College Student. I'm a Pinoy Programmer and Maybe a "Script Kiddie". I look for Web Vulnerabilities using frameworks and AI, I'm still learning and i try make some documentaries from it. Below are my socials.
 </p>
@@ -17,11 +21,20 @@ $ spuffxz@ph
        .::.                .::.            spuffxz@ph
       :###%=.            .=%###:           ----------
      .######%=          =######.            Uptime: 20 years
-    .###%:###%=        =###%:###.           Programming language: Python, C++, Javascript, PHP
+    .###%:###%=        =###%:###.           Programming language: Python, C++, Javascript, PHP 
    .###%: .###%=      =###%: .###.          OS: Linux Mint
   .###%:   .###%=    =###%:   .###.         DE: KDE Plasma
  :###%:     .###%=  =###%:     .###:        WM: Openbox
 .###%:       .###%==###%:       .###.       Shell: Zsh
 :%%#:         .#%%##%%#:         .#% :      Editor: VSCode, Cursor, Intellij, Android Studio
- ::.           .:::::::           .::                                                                                               
-                
+ ::.           .:::::::           .::
+                                                                                         
+```
+<h2> <img src="https://github.com/Maaarrll/Personal-Repo/blob/main/kitty.gif" width="50"> PROGRAMMING LANGUAGES </h2>
+<p align="center">
+  <img src="https://github.com/Maaarrll/Personal-Repo/blob/main/python.gif" width="100">
+  <img src="https://github.com/Maaarrll/Personal-Repo/blob/main/cpp-cplusplus.gif"  width="100">
+  <img src="https://github.com/Maaarrll/Personal-Repo/blob/main/JS.gif"  width="100">
+  <img src="https://skillicons.dev/icons?i=php"  width="100">
+  
+</p>
