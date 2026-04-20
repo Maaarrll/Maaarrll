@@ -38,6 +38,7 @@ $ spuffxz@ph
   <img src="https://skillicons.dev/icons?i=php"  width="100"> 
 </p>
 
+<h1 align="center"> <img src="https://github.com/Maaarrll/Personal-Repo/blob/main/mario.gif"> </h1>
 <h3> CONTACTS<img src="https://github.com/Maaarrll/Personal-Repo/blob/main/pepe-calling.gif" width="30"></h3>
 <p>
   <em>
@@ -45,5 +46,3 @@ $ spuffxz@ph
     Email me @ <a href="https://mail.google.com/mail/u/0/#inbox"> Gmail </a>
 </em>
 </p>
-
-<h1 align="center"> <img src="https://github.com/Maaarrll/Personal-Repo/blob/main/mario.gif"> </h1>
