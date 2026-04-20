@@ -12,7 +12,7 @@
   <a href="hayahayanbuhay@gmail.com"><img src="https://github.com/Maaarrll/Personal-Repo/blob/main/gmail-logo-on-transparent-white-background-free-vector.jpg?raw=true" width="30" height="30"/>
 
   <a href="https://www.linkedin.com/in/marl-june-ordonia-395158296/"><img src="https://raw.githubusercontent.com/Maaarrll/Personal-Repo/refs/heads/main/vector-linkedin-apps-logo-rounded-asset-isolated_1004619-457.avif" width="30" height="30"/>
-
+</p>
 
 ```bash
 $ spuffxz@ph
