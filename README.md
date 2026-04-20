@@ -35,6 +35,15 @@ $ spuffxz@ph
   <img src="https://github.com/Maaarrll/Personal-Repo/blob/main/python.gif" width="100">
   <img src="https://github.com/Maaarrll/Personal-Repo/blob/main/cpp-cplusplus.gif"  width="100">
   <img src="https://github.com/Maaarrll/Personal-Repo/blob/main/JS.gif"  width="100">
-  <img src="https://skillicons.dev/icons?i=php"  width="100">
-  
+  <img src="https://skillicons.dev/icons?i=php"  width="100"> 
 </p>
+
+<h3> CONTACTS<img src="https://github.com/Maaarrll/Personal-Repo/blob/main/pepe-calling.gif" width="30"></h3>
+<p>
+  <em>
+    Contact me @ <a href="https://discordapp.com/users/1495813768184070144">Discord</a> and <a href="t.me/@Nnyms1225"> Telegram </a> <br/>
+    Email me @ <a href="https://mail.google.com/mail/u/0/#inbox"> Gmail </a>
+</em>
+</p>
+
+<h1 align="center"> <img src="https://github.com/Maaarrll/Personal-Repo/blob/main/mario.gif"> </h1>
