@@ -43,6 +43,6 @@ $ spuffxz@ph
 <p>
   <em>
     Contact me @ <a href="https://discordapp.com/users/1495813768184070144">Discord</a> and <a href="t.me/@Nnyms1225"> Telegram </a> <br/>
-    Email me @ <a href="https://mail.google.com/mail/u/0/#inbox"> Gmail </a>
+    Email me @ marljune6039@gmail.com
 </em>
 </p>
