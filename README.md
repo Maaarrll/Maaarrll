@@ -1,5 +1,5 @@
 <h1 align="center"> HELLO WORLD! I'M SPUFFXZ!! <img src="https://github.com/Maaarrll/Personal-Repo/blob/main/images%20(1).png" width="40"></h1>
-<p><em>Third Year at <a href="https://uep.edu.ph/">University of Eastern Philippines</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> A Virtual Assistant
+<p><em>Fourth Year at <a href="https://uep.edu.ph/">University of Eastern Philippines</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br> A Virtual Assistant
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
